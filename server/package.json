@@ -1,0 +1,25 @@
+{
+  "name": "graphql-project",
+  "version": "1.0.0",
+  "description": "graphql project used with aws appsync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aetuk0201/graphql-project-awsappsync.git"
+  },
+  "author": "aetuk0201",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aetuk0201/graphql-project-awsappsync/issues"
+  },
+  "homepage": "https://github.com/aetuk0201/graphql-project-awsappsync#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0",
+    "lodash": "^4.17.20"
+  }
+}
